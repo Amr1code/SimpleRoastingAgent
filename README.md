@@ -7,10 +7,9 @@ A Streamlit web app that lets you paste your code and get **brutally roasted** b
 > 📸 *Replace the placeholders below with your screenshots saved in the `assets/` folder*
 
 <!-- Screenshot 1: e.g. the input screen / landing view -->
-[Demo 1](assets/demo1.png) -->
-
+[Demo 1](assets/demo1.png) 
 <!-- Screenshot 2: e.g. the roast response in action -->
-[Demo 2](assets/demo2.png) -->
+[Demo 2](assets/demo2.png) 
 
 ## What It Does
 
