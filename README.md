@@ -2,6 +2,16 @@
 
 A Streamlit web app that lets you paste your code and get **brutally roasted** by an AI senior developer with 20 years of experience and zero patience for bad code.
 
+## Demo
+
+> 📸 *Replace the placeholders below with your screenshots saved in the `assets/` folder*
+
+<!-- Screenshot 1: e.g. the input screen / landing view -->
+[Demo 1](assets/demo1.png) -->
+
+<!-- Screenshot 2: e.g. the roast response in action -->
+[Demo 2](assets/demo2.png) -->
+
 ## What It Does
 
 - Paste any code snippet into the chat input
